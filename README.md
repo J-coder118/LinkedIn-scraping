@@ -1,7 +1,4 @@
 # LinkedIn-Job-Scraping-bot
-
-In 2022, while looking for my first Data Analyst job after graduation, I have to painfully perform a daily mediocre task of scrolling through every single Data Analyst posting on LinkedIn, Glassdoor, Indeed, etc. It was  that moment that I stumbled upon the idea of creating a Web Scraping bot to do all the manual work.
-
 ## Tools
 
 I used Python particularly the following tidyverse packages: *pandas, numpy, selenium, gspread, gspread-dataframe, google, pydrive*. I also install the latest Chromedriver to use Selenium: https://chromedriver.chromium.org/downloads
